@@ -7,6 +7,8 @@ declare const _default: {
         AUTHENTICATION_REQUIRED: string;
         REFRESH_TOKEN_REQUIRED: string;
         USER_UNCONFIRMED: string;
+        ONLY_AUTHOR_ACCESS: string;
+        NOT_FOUND: string;
     };
 };
 export default _default;
